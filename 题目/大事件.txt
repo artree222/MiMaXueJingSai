@@ -1,0 +1,53 @@
+BC4，希腊在与波斯的战争中，使用一层蜡把木板上的文字遮盖，用来传输情报
+BC4，周朝的阴书
+BC1，凯撒发明的凯撒密码
+公元9世纪，阿拉伯，金迪，提出频度分析方法
+公元前500年，古希腊，Scytale木棍加密
+1586年，Vigenere，法国，Vigenere密码
+1854年，Wheatstone，发明Playfair密码
+1854年，Babbage，击破Vigenere密码，没有公布
+1863年，Kasiski，击破Vigenere密码
+公元20世纪，40 room，破解齐默尔曼电报
+公元20世纪，美国，吉尔伯特，One-Time pad，密码学的圣杯
+公元20世纪，苏联，交叉式密码
+1917年，G.W.Vernam发明了序列密码
+第二次世界大战，德国，Enigma密码机
+第二次世界大战，波兰，Bomb解密机
+第二次世界大战，日本，紫色密码机
+第二次世界大战，日本海军，JN密码机
+第二次世界大战，美国，纳瓦霍密码，从未被击破的密码
+1949年，Shannon，《保密系统的通信理论》，密码学成为了一种学科
+1975年，美国国家标准局，DES标准
+1976年，美国斯坦福大学，Diffie 和 Hellman，《密码学的新方向》
+1977年，Rivest和Shamir和Adleman，RSA加密
+1977年，Merkle和Hellman，提出Merkle-Hellman背包加密算法
+1979年，Shamir，基于Lagrange内插多项式，提出（t,n）门限
+1980年，Asumth和Bloom，基于中国剩余定理，提出（t,n）门限
+1982年，Shamir，攻破Merkle-Hellman背包加密
+1985年，Taher ElGamal提出了ElGamal加密算法
+1987年，法国人，发明A5/1算法，流加密算法，用于GSM从电话到基站连接的加密，3*LFSR，19，22，23
+1987年，Ron Rivest，发明RC4算法，一种流加密算法，支持可变的密钥长度
+1989年，法国人，发明A5/2算法
+1991年，Massey和Xuejia Lai，提出IDEA加密算法
+1991年，Ronald Rivest，提出MD5算法
+1993年，美国政府，EES，Escrowed Encryption Standard，托管加密标准
+1993年，
+1993年，David Wheeler，发明WAKE加密算法，一种流加密算法
+1994年，Phillip Rogaway 和 Don Coppersmith发明SEAL算法，一种流加密算法
+1994年，David Wheeler和Roger Needham，发明TEA加密
+1994年，Ron Rivest，发明RC5加密体制，一种分组加密算法
+1994年，RC4算法首次公开
+1997年，David Wheeler和Roger Needham，发明XTEA加密
+1997年，NIST开始招募AES
+1998年，第一次AES候选会，15个算法初步合格
+1999年，AES最终候选名单，5个算法
+1999年，美国的麻省理工学院提出了物联网的概念
+2000年，Rijndael算法被NIST选为最终的AES标准
+1998年，Skipjack算法被解密
+1999年，Briceno，将A5算法完全逆向工程出来
+2004年，王晓云，使用差分攻击的思路，破解MD5和SHA-1
+2010年，中国，公布了SM2算法，非对称加密
+2012年，中国，公布了SM4算法，一种分组密码，分组长度和密钥长度为128位
+2013年，Victor Shoup 和 Shai Halevi发布了开源的同态加密库HElib，使用C++编写
+2014年，Ron Rivest，发明Spritz加密，RC4算法的加强版
+2016年，中国，公布了SM9算法，非对称加密，基于椭圆曲线上的离散对数问题
